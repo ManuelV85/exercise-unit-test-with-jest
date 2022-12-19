@@ -15,7 +15,7 @@ test("One euro should be 1.206 dollars", function(){
     //use the funtion like its suppoed to be used
     const dollars = fromEuroToDollar(3.5);
 
-    // if 1 euro are 10206 dollars, then 3.5 euros should be (3.5*1.2)
+    // if 1 euro are 1.2 dollars, then 3.5 euros should be (3.5*1.2)
     //const expect = 3.5*1.2;
 
     //this is the comparasion for the unit test
